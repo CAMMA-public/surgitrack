@@ -11,8 +11,8 @@
 <center><img src="flow.png" height="100%" width="auto" align="center"></center>
 
 <br><br>
->>>>> <a href="https://arxiv.org/abs/2405.20333" target="_blank" class="external-link button is-normal is-rounded is-dark"> <span class="icon"> <i class="ai ai-arxiv"></i> 📰</span> <span>arXiv Preprint</span> </a>
->>>>> <a href="https://www.sciencedirect.com/science/article/pii/S1361841524003633#mmc1" target="_blank" class="external-link button is-normal is-rounded is-dark"> <span class="icon"> <i class="ai ai-arxiv"></i> 📰</span> <span>Medical Image Analysis Journal</span> </a>
+>> <a href="https://arxiv.org/abs/2405.20333" target="_blank" class="external-link button is-normal is-rounded is-dark"> <span class="icon"> <i class="ai ai-arxiv"></i> 📰</span> <span>arXiv Preprint</span> </a><br />
+>> <a href="https://www.sciencedirect.com/science/article/pii/S1361841524003633#mmc1" target="_blank" class="external-link button is-normal is-rounded is-dark"> <span class="icon"> <i class="ai ai-arxiv"></i> 📰</span> <span>Medical Image Analysis Journal</span> </a>
 
 <br>
 
