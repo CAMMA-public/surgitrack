@@ -1,6 +1,6 @@
 # Surgical Text-to-Image Generation
 
-<center><img src="pipeline.png" height="100%" width="auto" align="center"></center>
+<center><img src="flow" height="100%" width="auto" align="center"></center>
 
 <br> 
 <div align="justify"> 
