@@ -1,4 +1,10 @@
-# Surgical Text-to-Image Generation
+# Surgitrack: Fine-Grained Multi-Class Multi-Tool Tracking in Surgical Videos
+
+*C.I. Nwoye and N. Padoy*
+
+A publication of Elsevier Medical Image Analysis, 2025
+
+- Accepted for IPCAI 2025 Long Abstract Presentation, Berlin Germany.
 
 
 <br> 
@@ -29,4 +35,5 @@
 
 <hr />
 <br/>
-<p>Coming soon !</p>
+
+**Code**: Coming soon !
