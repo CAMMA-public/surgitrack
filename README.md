@@ -22,6 +22,30 @@ A publication of Elsevier Medical Image Analysis, 2025
 
 <br>
 
+## Results
+#### Multi-Perspective Multi-Tool Tracking Results @ 25 FPS.
+<center><img src="images/multip.png" height="100%" width="auto" align="center"></center>
+<br />
+#### Class-wise tracking accuracy and Impact of KB algorithm on state of the art models; [Intraoperative Perspective @ 25 FPS]
+<center><img src="images/classw.png" height="100%" width="auto" align="center"></center>
+<br />
+#### Impact of Direction Estimation in Tracking Surgical Tools at Varying Video Sampling Rates (i.e. 1, 5, 25 frames per seconds FPS). A demonstration is included in the qualitative video.
+<center><img src="images/fps.png" height="100%" width="auto" align="center"></center>
+<br />
+#### Performance Assessment of SurgiTrack Amidst Surgical Visual Challenges.
+<center><img src="images/vchanllenge.png" height="100%" width="auto" align="center"></center>
+<br />
+#### Qualitative result of SurgiTrack in comparison with some existing methods.
+<center><img src="images/demo1.png" height="100%" width="auto" align="center"></center>
+<br />
+#### Qualitative result of SurgiTrack in comparison with a state of the art method (BotSORT) on tracking across variable frame rates (1FPS, 5FPS
+and 25FPS)
+<center><img src="images/demo2.png" height="100%" width="auto" align="center"></center>
+
+
+#### Video Demos
+
+
 ### CItation
 -------------
 <pre><code>@article{nwoye2024surgitrack,
